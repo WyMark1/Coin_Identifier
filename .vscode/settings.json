@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\wyatt\\OneDrive\\Desktop\\Coding\\Coin_Identifier\\lib\\*.jar",
+        "c:\\Users\\wyatt\\OneDrive\\Desktop\\Coding\\Tess4J-3.4.8-src\\Tess4J\\lib\\*.jar"
+    ]
+}
